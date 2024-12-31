@@ -1,0 +1,6 @@
+/* Remover margem padrão abaixo do texto.
+=> Configurações de Página => Avançado => CSS Personalizado. */
+
+p {
+	margin-bottom: 0;
+}
