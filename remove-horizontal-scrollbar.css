@@ -1,0 +1,7 @@
+/* REMOVER BARRA DE SCROLL HORIZONTAL:
+=> Configurações de Página => Avançado => CSS Personalizado. */
+
+html, body {
+    width: 100%;
+    overflow-y: hidden;
+}
